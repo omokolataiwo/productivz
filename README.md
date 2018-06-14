@@ -32,4 +32,4 @@ This project follows [JavaScript Airbnb](https://github.com/airbnb/javascript) s
 
 ##  License
 
-- [MIT License](./LICENSE.md)
+- [MIT License](./LICENSE)
